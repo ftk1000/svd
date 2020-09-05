@@ -3,7 +3,7 @@
 [Data-Driven Science and Engineering: Machine Learning, 
 Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/databook.pdf)<br>
 
-## Steve Brunton videos
+## [Steve Brunton 43 videos](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 [Singular Value Decomposition (SVD): Overview.  (Chapter 1)](https://www.youtube.com/watch?v=gXbThCXjZFM)<br>
 []()<br>
 []()<br>
