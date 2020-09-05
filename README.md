@@ -1,14 +1,12 @@
 # svd rocks
-
-[Data-Driven Science and Engineering: Machine Learning, 
-Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/databook.pdf)<br>
+[PAPER: The Optimal Hard Threshold for Singular Values is 4/√3, Matan Gavish and David L. Donoho, 2014](https://arxiv.org/pdf/1305.5870.pdf)<br>
+[COURSE: Steve Brunton ME565 Mech Eng Analysis Lectures 2015  (29/59 playlist)](https://www.youtube.com/watch?v=c15oQQFRt0Y&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)<br>
+[BOOK: Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/databook.pdf)<br>
 
 ## [Steve Brunton 43 SVD videos](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
-## [Steve Brunton ME565 Mech Eng Analysis Lectures 2015  (29/59 playlist)](https://www.youtube.com/watch?v=c15oQQFRt0Y&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)<br>
 
 1. [Singular Value Decomposition (SVD): Overview.  (Chapter 1)](https://www.youtube.com/watch?v=gXbThCXjZFM)<br>
   - Data driven generalization of Fouruer Transforms (FFT) "tailored" to specific problem
-[]()<br>
 []()<br>
 40. [RSVD](https://www.youtube.com/watch?v=fJ2EyvR85ro&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&index=40)<br>
   - Let  P = proj matrix onto a small (r+p) subspace of col(X), then X  P = Z = QR (use QR decomposition of Z)
