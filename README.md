@@ -9,10 +9,14 @@ Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/data
   - Data driven generalization of Fouruer Transforms (FFT) "tailored" to specific problem
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-43. [Randomized SVD Code (Python)](https://www.youtube.com/watch?v=vDSi271vUWk&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&index=43)<br>
+40. [RSVD](https://www.youtube.com/watch?v=fJ2EyvR85ro&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&index=40)<br>
+41. []()<br>
+42. []()<br>
+43. [Randomized SVD Code (RSVD Python)](https://www.youtube.com/watch?v=vDSi271vUWk&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&index=43)<br>
+  - X  P = Z, P = proj matrix onto a small (r+p) subspace of col(X)
+  - QR decompose Z
+  - Y = Q^t X
+  - use SVD(Y) to estimate SVD(X)
 
 
 or create a new repository on the command line
