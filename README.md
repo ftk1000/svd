@@ -5,6 +5,7 @@ Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/data
 
 ## [Steve Brunton 43 videos](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 [Singular Value Decomposition (SVD): Overview.  (Chapter 1)](https://www.youtube.com/watch?v=gXbThCXjZFM)<br>
+  - Data driven generalization of Fouruer Transforms (FFT) "tailored" to specific problem
 []()<br>
 []()<br>
 []()<br>
