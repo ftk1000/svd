@@ -3,7 +3,8 @@
 [Data-Driven Science and Engineering: Machine Learning, 
 Dynamical Systems, and Control"  by Brunton and Kutz](http://databookuw.com/databook.pdf)<br>
 
-## [Steve Brunton 43 videos](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
+## [Steve Brunton 43 SVD videos](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
+## [Steve Brunton ME565 Mech Eng Analysis Lectures 2015  (29/59 playlist)](https://www.youtube.com/watch?v=c15oQQFRt0Y&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)<br>
 
 1. [Singular Value Decomposition (SVD): Overview.  (Chapter 1)](https://www.youtube.com/watch?v=gXbThCXjZFM)<br>
   - Data driven generalization of Fouruer Transforms (FFT) "tailored" to specific problem
