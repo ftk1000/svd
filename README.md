@@ -7,7 +7,14 @@
 
 1. [Singular Value Decomposition (SVD): Overview.  (Chapter 1)](https://www.youtube.com/watch?v=gXbThCXjZFM)<br>
   - Data driven generalization of Fouruer Transforms (FFT) "tailored" to specific problem
-[]()<br>
+[]()<br>  
+[]()<br>  
+[]()<br>  
+2. [SVD and Optimal Truncation](https://www.youtube.com/watch?v=9vJDjkx825k)<br>
+[]()<br>  
+[]()<br>  
+[]()<br>  
+[]()<br>  
 40. [RSVD](https://www.youtube.com/watch?v=fJ2EyvR85ro&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&index=40)<br>
   - Let  P = proj matrix onto a small (r+p) subspace of col(X), then X  P = Z = QR (use QR decomposition of Z)
   - Let  Y = Q^t X,   do SVD of Y = U_y S V^t, and compute U = Q U_y. Then U, S, and V same as in  economy SVD of X
