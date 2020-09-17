@@ -10,7 +10,7 @@
 []()<br>  
 []()<br>  
 []()<br>  
-2. [SVD and Optimal Truncation](https://www.youtube.com/watch?v=9vJDjkx825k)<br>
+34. [SVD and Optimal Truncation](https://www.youtube.com/watch?v=9vJDjkx825k)<br>
 []()<br>  
 []()<br>  
 []()<br>  
